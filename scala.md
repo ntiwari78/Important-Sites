@@ -1,4 +1,4 @@
-### Important scala Sites
+## Important scala Sites
 
 #### 1. https://www.scala-exercises.org/
 #### 2. http://david-peter.de/cube-composer/
